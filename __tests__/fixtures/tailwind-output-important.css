@@ -470,6 +470,13 @@ img {
   border-style: solid;
 }
 
+/*
+ * Ensure horizontal rulers are visible by default
+ */
+hr {
+  border-width: 1px;
+}
+
 textarea {
   resize: vertical;
 }
